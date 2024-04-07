@@ -1,1 +1,1 @@
-### pratice git comand by krish
+### $ pratice git comand by krish
