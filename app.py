@@ -6,3 +6,6 @@ def sub(a,b,d):
 
 def division(a,b,e):
     return a/b*e
+
+def mult(a,b);
+    return a*b
